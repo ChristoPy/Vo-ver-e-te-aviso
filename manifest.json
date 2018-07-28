@@ -1,0 +1,20 @@
+{
+  "name": "Vo ve e te aviso",
+   "manifest_version": 2,
+   "version": "1.0",
+   "icons": {
+    "vove": "vove.png"
+  },
+
+  "permissions": [
+      "activeTab"
+    ],
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "run_at": "document_idle",
+      "js": ["vove.js"]
+    }
+  ]
+}
