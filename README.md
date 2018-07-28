@@ -1,2 +1,8 @@
-# VoVeETeAviso
-Extensão para mudar todas(esse era o resultado esperado) imagens para a do rei do shitpost
+# Vo ve e te aviso
+Extensão para mudar todas do facebook em imagens do rei do shitpost
+
+## Embreve na Chrome WEB Store, to sem dinheiro por enquanto
+
+#### v2.0 - Resolvido o bug de não mudar as imagens carregadas após scroll no site
+
+#### v1.0 - Mudando apenas algumas imagens
