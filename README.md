@@ -3,6 +3,8 @@ Extensão para mudar todas do facebook em imagens do rei do shitpost
 
 Apenas no Google Chrome
 
+https://drive.google.com/file/d/14VQItDZHrleryOZEsiTyzGzTOeGtucbj/view?usp=sharing
+
 # Embreve na Chrome WEB Store, to sem dinheiro por enquanto
 
 #### v2.0 - Resolvido o bug de não mudar as imagens carregadas após scroll no site
