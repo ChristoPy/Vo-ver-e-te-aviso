@@ -8,3 +8,5 @@ Apenas no Google Chrome
 #### v2.0 - Resolvido o bug de não mudar as imagens carregadas após scroll no site
 
 #### v1.0 - Mudando apenas algumas imagens
+
+![deus](https://imgur.com/ksJO1OD.png)
