@@ -1,9 +1,10 @@
 	
 		// EU VO VE E TE AVISO
 
-	imagensPostFace();
-	imagensGeral();
-	imagensPerfilFace();
+	
+	window.setInterval('imagensPostFace()', 500);
+	window.setInterval('imagensGeral()', 500);
+	window.setInterval('imagensPerfilFace()', 500);
 
 	function imagensGeral(){
 		var x = document.getElementsByTagName("img");
