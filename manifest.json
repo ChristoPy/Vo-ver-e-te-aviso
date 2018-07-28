@@ -3,7 +3,7 @@
    "manifest_version": 2,
    "version": "1.0",
    "icons": {
-    "vove": "vove.png"
+    "128": "vove.png"
   },
 
   "permissions": [
