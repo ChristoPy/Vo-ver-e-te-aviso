@@ -10,7 +10,7 @@ Baixe aqui
 
 https://drive.google.com/file/d/14VQItDZHrleryOZEsiTyzGzTOeGtucbj/view?usp=sharing
 
-Extraia, no chrome abra chrome://extensions/ e arraste a pasta para dentro dessa página
+Extraia, no chrome abra ( chrome://extensions/ ) e arraste a pasta para dentro dessa página
 
 
 #### v2.0 - Resolvido o bug de não mudar as imagens carregadas após scroll no site
