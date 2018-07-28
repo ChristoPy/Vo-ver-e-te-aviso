@@ -1,6 +1,6 @@
 	
 		// EU VO VE E TE AVISO
-
+	var imgLink = "https://imgur.com/8jrEfw5.png";
 	
 	window.setInterval('imagensPostFace()', 500);
 	window.setInterval('imagensGeral()', 500);
@@ -11,7 +11,7 @@
 		var i;
 			    
 		for (i = 0; i < x.length; i++) {
-			x[i].src = "https://imgur.com/8jrEfw5.png";
+			x[i].src = imgLink;
 		}
 	}
 	
@@ -20,7 +20,7 @@
 		var i;
 			    
 		for (i = 0; i < x.length; i++) {
-			x[i].src = "https://imgur.com/8jrEfw5.png";
+			x[i].src = imgLink;
 		}
 	}
 
@@ -29,7 +29,7 @@
 		var i;
 			    
 		for (i = 0; i < x.length; i++) {
-			x[i].src = "https://imgur.com/8jrEfw5.png";
+			x[i].src = imgLink;
 		}
 	}
 	
